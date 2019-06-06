@@ -1,0 +1,9 @@
+POST http://localhost/api.peopleapp.com/v1/contactos HTTP/1.1
+content-type: application/json
+
+{
+	"primerNombre":"James",
+	"primerApellido":"Revelo",
+	"telefono":"312090934",
+	"correo":"james@mail.com"
+}
