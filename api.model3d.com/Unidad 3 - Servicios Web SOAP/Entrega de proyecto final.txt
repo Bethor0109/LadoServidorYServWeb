@@ -1,0 +1,24 @@
+http://localhost/html/nusoap/index.php?wsdl
+
+
+Entrega de proyecto final (Prog del lado del Servidor y Servicios Web)
+
+- Revisión individual
+- Se entrega un flujo de trabajo individual, es decir, se presenta la funcionalidad y se evalúa mediante preguntas y cambios. 
+- La entrega consiste en:
+
+- Presentación de un Web Service Restful CRUD sobre su proyecto. Puede ser evaluado con un cliente Http. (Servicios Web).
+- Consumo del  web service desde un sistema de información web (SIW), en php y/o JScript (Mínimo para la materia de Servicios Web). 
+- Presentación de los resultados del Web Service en el navegador (Procesamiento JSon) (Servicios Web)
+- Implementación de Sesiones y seguridad en el SIW. 
+- Generación de al menos un reporte en el SIW de al menos 2 tablas usadas en el flujo de trabajo presentado. 
+- Uso de distintas API's o funciones de Php: archivos, email, ftp, envío y/o descarga de archivos, etc. 
+- Web Service SOAP sobre el mismo flujo de trabajo hecho en Restful. (Servicios Web)
+- Consumo del WS SOAP con Php y/o JScript. (Servicios Web) 
+- Presentación de los resultados del Web Service en el navegador (Procesamiento XML). (Servicios Web)
+
+* Es necesario proporcionar en un documento aparte, la descripción de la funcionalidad de su web service, las URL's para su consumo, los parámetros que se le envían y las respuesta obtenida, En el caso del servicio web Rest ful, es necesario especificar el método http para generar la petición y el modo de envío de los parámetros.
+* Pueden solicitarse cambios para entrega posterior.
+
+
+Fecha límite de entrega: Viernes 14 de junio a las 13 hrs.
